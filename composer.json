@@ -6,6 +6,9 @@
     "require": {
         "php": ">=7.0.0"
     },
+    "suggest": {
+        "helhum/dotenv-connector": "Set environment variables in an .env file and automatically parse it"
+    },
     "autoload": {
         "psr-4": {"Pixelbrackets\\ApplicationContext\\": "Classes/"}
     },
