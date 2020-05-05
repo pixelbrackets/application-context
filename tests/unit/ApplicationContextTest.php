@@ -1,6 +1,6 @@
 <?php
 
-require __DIR__ . '/../../Classes/ApplicationContext.php';
+require __DIR__ . '/../../src/ApplicationContext.php';
 
 /*                                                                        *
  * This script belongs to the TYPO3 Flow framework.                       *

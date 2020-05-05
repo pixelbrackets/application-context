@@ -10,7 +10,7 @@
         "helhum/dotenv-connector": "Set environment variables in an .env file and automatically parse it"
     },
     "autoload": {
-        "psr-4": {"Pixelbrackets\\ApplicationContext\\": "Classes/"}
+        "psr-4": {"Pixelbrackets\\ApplicationContext\\": "src/"}
     },
     "require-dev": {
     }
