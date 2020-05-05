@@ -8,5 +8,7 @@
     },
     "autoload": {
         "psr-4": {"Pixelbrackets\\ApplicationContext\\": "Classes/"}
+    },
+    "require-dev": {
     }
 }
