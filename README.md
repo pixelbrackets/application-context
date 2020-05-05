@@ -1,6 +1,9 @@
 # Application Context
 
-[![Packagist](https://img.shields.io/packagist/v/pixelbrackets/application-context.svg)](https://packagist.org/packages/pixelbrackets/application-context/)
+[![Version](https://img.shields.io/packagist/v/pixelbrackets/application-context.svg?style=flat-square)](https://packagist.org/packages/pixelbrackets/application-context/)
+[![Build Status](https://img.shields.io/gitlab/pipeline/pixelbrackets/application-context?style=flat-square)](https://gitlab.com/pixelbrackets/application-context/pipelines)
+[![Made With](https://img.shields.io/badge/made_with-php-blue?style=flat-square)](https://gitlab.com/pixelbrackets/application-context#requirements)
+[![License](https://img.shields.io/badge/license-gpl--2.0--or--later-blue.svg?style=flat-square)](https://spdx.org/licenses/GPL-2.0-or-later.html)
 
 The »Application Context« library allows to define the context of the current 
 environment, in order to adapt configuration options depending on the stage 
